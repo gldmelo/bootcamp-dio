@@ -28,3 +28,5 @@ Score de confiança Negativo: 0
 
 A partir do Language Studio, após ter cadastrado o recurso conforme indicado no tutorial:
 Link: [Language Studio](https://language.cognitive.azure.com/tryout/sentiment)
+
+![image](https://github.com/gldmelo/dio-lab-azure-ai-endpoint/assets/6453228/c77da226-cc33-4f36-93db-49d30fe898c2)
