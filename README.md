@@ -1,7 +1,9 @@
-# dio-lab-azure-ai-endpoint
-Repositório para estudo de acesso a um endpoint no Azure AI do Bootcamp de AI-900
+![image](https://github.com/gldmelo/dio-lab-azure-ai-endpoint/assets/6453228/2620d5f9-b45f-4729-a50e-6c14fdc033ce)
 
-# Testando Azure AI Endpoint
+
+Este repositório contém os códigos desenvolvidos durante o Bootcamp `Microsoft Azure AI Fundamentals` da DIO em parceria com a Microsoft.
+
+# Lab01: Testando Azure AI Endpoint
 
 ## Seguir as instruções do passo a passo:
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
