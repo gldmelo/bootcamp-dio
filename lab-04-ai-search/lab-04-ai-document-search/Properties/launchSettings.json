@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "lab-04-ai-document-search": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SEARCH_ENDPOINT": "SEU_ENDPOINT",
+        "SEARCH_API_KEY": "SUA_KEY"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
