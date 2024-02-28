@@ -19,6 +19,7 @@ Informe uma frase na linha de comando para ser analisada. Exemplo:
 
 ## Output
 
+![image](https://github.com/gldmelo/dio-lab-azure-ai-endpoint/assets/6453228/89ed9e5c-7ad3-4ba4-a55e-2a20cc43eb20)
 
 
 ## Onde encontro as informações de Endpoint e Key?
