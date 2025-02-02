@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetMovies", "fnGetMovies\fnGetMovies.csproj", "{B420856A-D565-4E67-93DB-C9174EC36DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDatabase", "fnPostDatabase\fnPostDatabase.csproj", "{B36F9FAB-C844-43BA-87D1-4E1455CFCCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDataStorage", "fnPostDataStorage\fnPostDataStorage.csproj", "{B4DC755C-F3EC-4000-A625-C39F09149649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B420856A-D565-4E67-93DB-C9174EC36DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B420856A-D565-4E67-93DB-C9174EC36DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B420856A-D565-4E67-93DB-C9174EC36DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B420856A-D565-4E67-93DB-C9174EC36DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36F9FAB-C844-43BA-87D1-4E1455CFCCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36F9FAB-C844-43BA-87D1-4E1455CFCCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36F9FAB-C844-43BA-87D1-4E1455CFCCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36F9FAB-C844-43BA-87D1-4E1455CFCCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DC755C-F3EC-4000-A625-C39F09149649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DC755C-F3EC-4000-A625-C39F09149649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DC755C-F3EC-4000-A625-C39F09149649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DC755C-F3EC-4000-A625-C39F09149649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
