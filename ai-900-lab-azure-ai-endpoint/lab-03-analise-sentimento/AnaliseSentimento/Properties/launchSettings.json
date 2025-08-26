@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "AnaliseSentimento": {
+      "commandName": "Project",
+      "commandLineArgs": "Pratos variados e preços acessíveis. A vista é incrível e foi o que mais gostamos.",
+      "environmentVariables": {
+        "LANGUAGE_ENDPOINT": "SEU_ENDPOINT",
+        "LANGUAGE_KEY": "SUA_KEY"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

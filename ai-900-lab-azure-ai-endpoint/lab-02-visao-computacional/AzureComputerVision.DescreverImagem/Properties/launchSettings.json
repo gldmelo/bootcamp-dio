@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "AzureComputerVision.DescreverImagem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "VISION_ENDPOINT": "SEU_ENDPOINT",
+        "VISION_KEY": "SUA_KEY"
+      }
+    }
+  }
+}

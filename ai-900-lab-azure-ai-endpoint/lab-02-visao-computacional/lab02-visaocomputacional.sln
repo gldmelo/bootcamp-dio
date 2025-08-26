@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureComputerVision.DescreverImagem", "AzureComputerVision.DescreverImagem\AzureComputerVision.DescreverImagem.csproj", "{FA5ABB42-8B46-4463-93F4-FF000FD911F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5ABB42-8B46-4463-93F4-FF000FD911F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5ABB42-8B46-4463-93F4-FF000FD911F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5ABB42-8B46-4463-93F4-FF000FD911F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5ABB42-8B46-4463-93F4-FF000FD911F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90833454-F67A-4EF7-AC8C-06D1BD60C488}
+	EndGlobalSection
+EndGlobal
